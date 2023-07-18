@@ -38,15 +38,14 @@ Cyclistic marketing analytics team: A team of data analysts who are responsible 
 Cyclistic executive team: The executive team will decide whether to approve the recommended marketing program.
 Deliverables:
 
-A description of all data sources used
-Documentation of any cleaning or manipulation of data
-A summary of the analysis
-Supporting visualisations and key findings
-Top three to four recommendations based on the analysis
+1. A description of all data sources used
+1. Documentation of any cleaning or manipulation of data
+1. A summary of the analysis
+1. Supporting visualisations and key findings
+1. Top three to four recommendations based on the analysis
 Timeline:
 
-– Start date: 08–03–2022
-– End date: 19–03–2022
+A week Periode 
 
 ***1- A description of all data sources used:***
 The data-set which will be used for the analysis has been provided by Cyclistic management. It consists of 12 CSV files, one file for each month, from march 2022 to Feb 2023.
@@ -66,3 +65,16 @@ There are nine columns in each file containing data about all rides that took pl
 7. end_station_name: station’s name the ride ended at
 8. end_station_id: station’s ID the ride ended at
 9. member_casual: casual rider or member rider
+
+**Added columns**
+
+after 5 more columns was add
+
+1. date
+2. day of the week
+3. Month
+4. Yeath
+5. duration
+
+
+
