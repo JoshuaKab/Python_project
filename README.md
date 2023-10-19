@@ -79,3 +79,25 @@ after 5 more columns was add
 3. Month
 4. Yeath
 5. duration
+![2023-10-19 21_32_48-PDF Viewer and Reader](https://github.com/JoshuaKab/Python-and-R/assets/135429439/9ef9c1ce-c6bb-4d11-a19a-c870870bbd3f)
+
+![2023-10-19 21_33_16-PDF Viewer and Reader](https://github.com/JoshuaKab/Python-and-R/assets/135429439/db488324-69fb-4d4d-991f-fdde69929f29)
+
+![2023-10-19 21_33_38-PDF Viewer and Reader](https://github.com/JoshuaKab/Python-and-R/assets/135429439/20cf52b6-1757-4502-a8bd-4de5f81baeb0)
+
+![2023-10-19 21_33_52-PDF Viewer and Reader](https://github.com/JoshuaKab/Python-and-R/assets/135429439/005395d2-9bde-4298-9c2f-a62040890846)
+
+![2023-10-19 21_34_18-PDF Viewer and Reader](https://github.com/JoshuaKab/Python-and-R/assets/135429439/3b8f04dd-7a7f-44c9-9107-fb489bb5ff03)
+
+![2023-10-19 21_34_36-PDF Viewer and Reader](https://github.com/JoshuaKab/Python-and-R/assets/135429439/a3a727e8-073c-4572-afe3-effbeddbcd34)
+
+![2023-10-19 21_34_52-PDF Viewer and Reader](https://github.com/JoshuaKab/Python-and-R/assets/135429439/68e4aa2f-0394-4c24-81d1-0219791a54b6)
+
+![2023-10-19 21_35_09-](https://github.com/JoshuaKab/Python-and-R/assets/135429439/ca9013fe-f597-40a6-a4dc-c47f33e7ccb5)
+
+
+
+
+
+
+
