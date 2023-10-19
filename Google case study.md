@@ -4,7 +4,7 @@
 **Google case study**
 <h1>Introduction:</h1>
 
-Welcome to the Cyclistic bike-share analysis case study!
+Welcome to the Cyclistic bike-share analysis Google case study!
 This case study represents course 8 “Capstone project” of the Google Data Analytics Professional Certificate on Coursera
 
 The Scenario:
