@@ -2,6 +2,8 @@
 
 # Porfolio
 **Google case study**
+
+R programming code [Click here](https://github.com/JoshuaKab/Python-and-R/blob/main/google-case-study-joshua12.ipynb)
 <h1>Introduction:</h1>
 
 Welcome to the Cyclistic bike-share analysis Google case study!
